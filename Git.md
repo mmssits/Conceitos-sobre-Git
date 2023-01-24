@@ -68,7 +68,7 @@ git remote add origin (http do github - repositório criado na plataforma) *para
 
 git remote -v *para enviar para o remoto*
 
-git remote push origin master *para empurrar para o repositório remoto (github)*
+git push origin master *para empurrar para o repositório remoto (github)*
 
 **Podemos, ainda, clonar um repositório do GitHub em nossa máquina local, da seguinte forma:**
 
